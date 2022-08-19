@@ -4,3 +4,5 @@
 • Performed K Means clustering, implemented Elbow technique & Silhouette score method after data analysis
 
 • Applied Hierarchical Clustering, DBSCAN algorithm and got 3 optimal number of clusters on the given data
+
+contributers: https://github.com/Mayank-iitb
